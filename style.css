@@ -34,7 +34,7 @@ table {
   font-size: 17px;
   text-align: center;
   transition: all 1s;
-  max-width: 190px;
+  max-width: 220px;
   font-weight: bold;
   font-family: "Courier New", Courier, monospace;
 }
@@ -119,6 +119,12 @@ p {
 
 #displayBalance {
   border: thick solid hotpink;
-  height: 5vh;
+  height: 7vh;
+  width: 20vw;
   margin: 10px;
+  margin-bottom: 15px;
+  overflow: hidden;
+  border-radius: 5px;
+  margin-left: 30px;
+  padding: 10px;
 }
