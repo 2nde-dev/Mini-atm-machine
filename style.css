@@ -63,6 +63,7 @@ p {
 
 .button {
   --color: #00a97f;
+  margin: 10px;
   padding: 0.8em 1.7em;
   background-color: transparent;
   border-radius: 0.3em;
